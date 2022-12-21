@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5e55390-e646-409c-93d6-8d89c5c7e1c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2J8dlBmpv6aDzkflTdA95wagoH8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/store/hooks" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\projekts\work\test-table-teact\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projekts\work\test-table-teact\src" />
+      <recent name="C:\projekts\work\test-table-teact\src\components" />
+    </key>
+    <key name="es6.move.members.recent.items">
+      <recent name="C:\projekts\work\test-table-teact\src\TableBlock.tsx" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projekts\work\test-table-teact\src\store\hooks" />
+      <recent name="C:\projekts\work\test-table-teact\src\store" />
+      <recent name="C:\projekts\work\test-table-teact\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5e55390-e646-409c-93d6-8d89c5c7e1c9" name="Default Changelist" comment="" />
+      <created>1671463793241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671463793241</updated>
+      <workItem from="1671463794335" duration="34460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1671568748600">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/-2560.-538.2048.1112@0.0.1600.860" timestamp="1671568748600" />
+    <state x="463" y="180" key="search.everywhere.popup" timestamp="1671572915025">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" key="search.everywhere.popup/0.0.1600.860/-2560.-538.2048.1112@0.0.1600.860" timestamp="1671572915025" />
+  </component>
+</project>
